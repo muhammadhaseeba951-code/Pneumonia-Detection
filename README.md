@@ -10,10 +10,10 @@ Dataset Source:
 Chest X-ray Pneumonia Dataset
 
 Google Drive Dataset Link:
-https://drive.google.com/file/d/1cPIN8ZE9rcwjsv9-TTVH3r6ZraJAA3rj/view?usp=sharing
+`https://drive.google.com/file/d/1cPIN8ZE9rcwjsv9-TTVH3r6ZraJAA3rj/view?usp=sharing`
 
 ## Colab Notebook
-https://drive.google.com/file/d/1Hv_a7bErzHfuQS1sfonA2p_kEXqvU5Gf/view?usp=sharing 
+`https://drive.google.com/file/d/1Hv_a7bErzHfuQS1sfonA2p_kEXqvU5Gf/view?usp=sharing`
 
 ## Project Workflow
 
