@@ -9,6 +9,9 @@ This project develops a deep learning-based medical image classification system 
 Dataset Source:
 Chest X-ray Pneumonia Dataset
 
+Kaggle Dataset:
+`https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia`
+
 Google Drive Dataset Link:
 `https://drive.google.com/file/d/1cPIN8ZE9rcwjsv9-TTVH3r6ZraJAA3rj/view?usp=sharing`
 
